@@ -13,6 +13,20 @@ The node exposes prompt mode, environment, lighting, composition, lens, seed, as
 - **Generation controls** — set the seed, aspect ratio, and target megapixels.
 - **Workflow included** — `T2I_KREA2_ComfyUI_ArchViz_v1.0.json`.
 
+## Screenshots
+
+### ArchViz Controller
+
+![ArchViz Controller node](images/archviz-controller.png)
+
+### Workflow
+
+![Krea2 ArchViz workflow](images/workflow-overview.png)
+
+### Example result
+
+![Architectural visualization example](images/example-interior.png)
+
 ## Requirements
 
 - ComfyUI Desktop or a compatible ComfyUI installation.
