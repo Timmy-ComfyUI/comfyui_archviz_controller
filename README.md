@@ -41,7 +41,7 @@ Install the workflow's other required custom-node packs separately, then restart
 2. Clone this repository into that directory:
 
    ```bash
-   git clone https://github.com/Timmy-ComfyUI/comfyui-custom-node-001.git
+   git clone https://github.com/Timmy-ComfyUI/comfyui_archviz_controller.git
    ```
 
 3. Restart ComfyUI.
