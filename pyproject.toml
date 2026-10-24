@@ -15,5 +15,5 @@ Repository = "https://github.com/Timmy-ComfyUI/comfyui_archviz_controller"
 "Bug Tracker" = "https://github.com/Timmy-ComfyUI/comfyui_archviz_controller/issues"
 
 [tool.comfy]
-PublisherId = "pat-9c8a9eb6-3856-474a-811f-1106cd0b4301"
+PublisherId = "timmy-comfyui"
 DisplayName = "ArchViz Controller"
