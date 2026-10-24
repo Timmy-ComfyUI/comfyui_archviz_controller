@@ -1,0 +1,19 @@
+[project]
+name = "archviz-controller"
+version = "1.0.0"
+description = "An architectural visualization controller node and Krea 2 Turbo workflow for ComfyUI."
+license = { text = "MIT License" }
+requires-python = ">=3.10"
+dependencies = []
+classifiers = [
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+Repository = "https://github.com/Timmy-ComfyUI/comfyui_archviz_controller"
+"Bug Tracker" = "https://github.com/Timmy-ComfyUI/comfyui_archviz_controller/issues"
+
+[tool.comfy]
+PublisherId = "pat-9c8a9eb6-3856-474a-811f-1106cd0b4301"
+DisplayName = "ArchViz Controller"
