@@ -45,7 +45,7 @@ The workflow uses nodes from ComfyUI core as well as the packs listed above. Ins
 
 ### Recommended: ComfyUI Manager / Registry
 
-ArchViz Controller is published on the ComfyUI Registry. To install it, open ComfyUI Manager, search for **ArchViz Controller**, and install the node pack. Restart ComfyUI if requested.
+ArchViz Controller is published on the ComfyUI Registry. To install it, open ComfyUI Manager, search for **ArchViz Presets & Controller**, and install the node pack. Restart ComfyUI if requested.
 
 You can also find the package on the [ComfyUI Registry](https://registry.comfy.org/publishers/timmy-comfyui/nodes/archviz-controller) and browse the source code in this [GitHub repository](https://github.com/Timmy-ComfyUI/comfyui_archviz_controller).
 
