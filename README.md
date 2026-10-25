@@ -1,12 +1,12 @@
 # ArchViz Controller for ComfyUI
 
-**ArchViz Controller** is a custom ComfyUI node designed for the **T2I_KREA2_ComfyUI_ArchViz_v1.0** workflow. It provides a single control panel for architectural interior, exterior, and landscape image generation with Krea 2 / Krea 2 Turbo.
+The **ArchViz Controller** is a custom ComfyUI node designed for the **T2I_KREA2_ComfyUI_ArchViz_v1.0** workflow. It provides a single control panel for architectural interior, exterior, and landscape image generation with Krea 2 / Krea 2 Turbo.
 
 The node exposes prompt mode, environment, lighting, composition, lens, seed, aspect ratio, and megapixel controls. It converts the selected preset options into selector values used by the workflow's DazzleNodes switches. The preset prompt text itself is stored in the workflow, not in the Python node.
 
 ## Model Compatibility
 
-The Archviz Presets & Controller was originally developed for the Krea2-Turbo master workflow and has also been tested successfully with Flux3-Klein and MOSS-Image workflows.
+The Archviz Presets & Controller were originally developed for the Krea2-Turbo master workflow and has also been tested successfully with Flux3-Klein and MOSS-Image workflows.
 
 The controller and reusable presets can be integrated into compatible ComfyUI workflows, allowing users to apply a consistent control system across different image-generation models. Integration may require adapting the workflow to expose the appropriate inputs.
 
@@ -25,7 +25,7 @@ The controller and reusable presets can be integrated into compatible ComfyUI wo
 
 ![ArchViz Controller node](images/archviz-controller.png)
 
-### Workflow
+### Krea 2 Turbo Workflow with the ArchViz Presets & Controller
 
 ![Krea2 ArchViz workflow](images/workflow-overview.png)
 
@@ -55,7 +55,7 @@ The workflow uses nodes from ComfyUI core as well as the packs listed above. Ins
 
 ### Recommended: ComfyUI Manager / Registry
 
-ArchViz Controller is published on the ComfyUI Registry. To install it, open ComfyUI Manager, search for **ArchViz Presets & Controller**, and install the node pack. Restart ComfyUI if requested.
+The ArchViz Controller is published on the ComfyUI Registry. To install it, open ComfyUI Manager, search for **ArchViz Presets & Controller**, and install the node pack. Restart ComfyUI if requested.
 
 You can also find the package on the [ComfyUI Registry](https://registry.comfy.org/publishers/timmy-comfyui/nodes/archviz-controller) and browse the source code in this [GitHub repository](https://github.com/Timmy-ComfyUI/comfyui_archviz_controller).
 
