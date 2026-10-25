@@ -7,3 +7,7 @@ __pycache__/
 
 # Ruff cache
 .ruff_cache/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
