@@ -4,6 +4,12 @@
 
 The node exposes prompt mode, environment, lighting, composition, lens, seed, aspect ratio, and megapixel controls. It converts the selected preset options into selector values used by the workflow's DazzleNodes switches. The preset prompt text itself is stored in the workflow, not in the Python node.
 
+## Model Compatibility
+
+The Archviz Presets & Controller was originally developed for the Krea2-Turbo master workflow and has also been tested successfully with Flux3-Klein and MOSS-Image workflows.
+
+The controller and reusable presets can be integrated into compatible ComfyUI workflows, allowing users to apply a consistent control system across different image-generation models. Integration may require adapting the workflow to expose the appropriate inputs.
+
 ## Features
 
 - **Manual prompt mode** — use the supplied user prompt by itself.
