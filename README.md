@@ -25,7 +25,11 @@ The node exposes prompt mode, environment, lighting, composition, lens, seed, as
 
 ### Example result
 
-![Architectural visualization example](images/example-interior.png)
+![Architectural visualization example_results](images/example-interior.png)
+
+### Example settings
+
+![Architectural visualization example_settings](images/example-settings.png)
 
 ## Requirements
 
